@@ -19,11 +19,11 @@
 ### Screenshot
 
 <center>
-  <img src="./images/mysolution/(iPhone%20SE).png" alt="Iphone Display" />
+  <img src="./images/mysolution/(iPhone%20SE).png" alt="Iphone Display" width="200px" />
 </center>
 
 <center>
-  <img src="./images/mysolution/desktop.png" alt="Desktop view"/>
+  <img src="./images/mysolution/desktop.png" alt="Desktop view" width='500px'/>
 </center>
 
 ### Links
