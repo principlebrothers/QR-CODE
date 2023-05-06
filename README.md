@@ -81,4 +81,6 @@ Areas that you want to focus on are
 - Frontend Mentor - [@principlebrothers](https://www.frontendmentor.io/profile/principlebrothers)
 - Twitter - [@adonu_ernest](https://twitter.com/adonu_ernest)
 
-## Acknowledgments
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
