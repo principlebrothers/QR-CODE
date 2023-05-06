@@ -28,8 +28,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution/GitHub Repo](https://github.com/principlebrothers/QR-CODE)
+- Live Site URL: [QR-CODE Live](https://qr-code-component-main-psi-jet.vercel.app/)
 
 ## My process
 
