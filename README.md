@@ -29,7 +29,7 @@
 ### Links
 
 - Solution URL: [Solution/GitHub Repo](https://github.com/principlebrothers/QR-CODE)
-- Live Site URL: [QR-CODE Live](https://qr-code-component-main-psi-jet.vercel.app/)
+- Live Site URL: [QR-CODE Live](https://qr-code-component-main-principlebrothers.vercel.app)
 
 ## My process
 
