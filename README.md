@@ -10,7 +10,7 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## Overview
 
@@ -81,6 +81,6 @@ Areas that you want to focus on are
 - Frontend Mentor - [@principlebrothers](https://www.frontendmentor.io/profile/principlebrothers)
 - Twitter - [@adonu_ernest](https://twitter.com/adonu_ernest)
 
-## 📝 License
+## License
 
 This project is [MIT](./LICENSE) licensed.
